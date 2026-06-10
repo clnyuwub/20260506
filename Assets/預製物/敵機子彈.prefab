@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 8025887733010163132}
   m_Layer: 8
   m_Name: "\u6575\u6A5F\u5B50\u5F48"
-  m_TagString: Untagged
+  m_TagString: "\u6575\u4EBA"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4942,8 +4942,7 @@ MonoBehaviour:
     height: 0
   selectedBlocks:
   - {fileID: 6289594945527501999}
-  selectedCommands:
-  - {fileID: -8323998712224342997}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
