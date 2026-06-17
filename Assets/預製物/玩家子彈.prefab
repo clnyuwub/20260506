@@ -20,6 +20,7 @@ GameObject:
   - component: {fileID: -8323998712224342997}
   - component: {fileID: -1069896219856491220}
   - component: {fileID: 8025887733010163132}
+  - component: {fileID: -5952720027621826930}
   m_Layer: 7
   m_Name: "\u73A9\u5BB6\u5B50\u5F48"
   m_TagString: Untagged
@@ -4978,7 +4979,7 @@ MonoBehaviour:
   itemId: 0
   blockName: "\u78B0\u649E"
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: -5952720027621826930}
   commandList:
   - {fileID: -8323998712224342997}
   suppressAllAutoSelections: 0
@@ -5066,3 +5067,20 @@ MonoBehaviour:
     floatRef: {fileID: 0}
     floatVal: 2
   targetGameObjectOLD: {fileID: 0}
+--- !u!114 &-5952720027621826930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5145266822799261568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c23faba06619da442a984c0c71a87df4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 6289594945527501999}
+  suppressBlockAutoSelect: 0
+  tagFilter: []
+  FireOn: 1
+  collisionVar: {fileID: 0}

@@ -450,9 +450,8 @@ MonoBehaviour:
     width: 0
     height: 0
   selectedBlocks:
-  - {fileID: 81909475}
-  selectedCommands:
-  - {fileID: 81909474}
+  - {fileID: 81909490}
+  selectedCommands: []
   variables:
   - {fileID: 81909469}
   - {fileID: 81909492}
@@ -2009,7 +2008,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 81909464}
+  selectedFlowchart: {fileID: -8582580195831239777, guid: b0909f99f5ed50a44b02541fc9ebf18c, type: 3}
 --- !u!4 &184816166
 Transform:
   m_ObjectHideFlags: 1
@@ -2452,7 +2451,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.10825205, y: 0, z: -10}
+  m_LocalPosition: {x: -0.11110544, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
